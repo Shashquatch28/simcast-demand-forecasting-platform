@@ -1,1 +1,9 @@
 architecture-stack-plan.pdf
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Local data / datasets
+data/
